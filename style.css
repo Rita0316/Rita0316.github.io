@@ -4,6 +4,11 @@ h1 {
 h2 {
     font-size: 30px;
 }
-a href {
+a {
     color: blue;
+    font-size: 20px;
+    line-height: 20px;
+}
+body {
+    background-color: rgb(70, 123, 221);
 }
