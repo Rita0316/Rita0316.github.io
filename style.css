@@ -1,14 +1,16 @@
+head {
+    background-color: rgb(17, 17, 228);
+}
 h1 {
     font-size: 50px;
+    font-family: Copperplate Gothic;
+    text-align: center;
 }
 h2 {
     font-size: 30px;
+    font-family: Arial Nova;
 }
 a {
-    color: blue;
     font-size: 20px;
     line-height: 20px;
-}
-body {
-    background-color: rgb(70, 123, 221);
 }
