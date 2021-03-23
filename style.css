@@ -6,11 +6,7 @@ h1 {
     font-family: Copperplate Gothic;
     text-align: center;
 }
-h2 {
+a {
     font-size: 30px;
     font-family: Arial Nova;
-}
-a {
-    font-size: 20px;
-    line-height: 20px;
 }
