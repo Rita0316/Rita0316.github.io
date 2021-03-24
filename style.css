@@ -1,7 +1,9 @@
 body {
     background-image: url('elf.jpg');
     background-repeat: no-repeat;
-    margin:0;
+    background-position-x: center;
+    background-position-y: center;
+    margin: 0;
 
 }
 h1 {
