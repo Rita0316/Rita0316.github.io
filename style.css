@@ -14,8 +14,15 @@ h1 {
     padding-top: 25px;
     padding-bottom: 35px;
     background-color: black;
-    margin-bottom: 0px;
-    
+    margin-bottom: 0px;    
+}
+p {
+    font-family: Nunito;
+    color: white;
+    font-variant-position: center;
+    font-size: 25px;
+    padding-left: 15vw;
+    padding-right: 50vw;
 }
 a {    
     font-family: Forte;
@@ -27,7 +34,7 @@ a {
 a:hover {
     color: rgb(48, 52, 253);
 }
-nav {
+.top {
     display: flex;
     justify-content: space-around;
     padding-bottom: 17px;
@@ -37,5 +44,8 @@ nav {
     background-color: black;
 }
 .album {
-    padding-left: 20vw;
+    padding-left: 15vw;
+}
+.homejpg1 {
+    padding-left: 60vw;
 }
