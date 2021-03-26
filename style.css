@@ -58,3 +58,13 @@ a:hover {
     padding-left: 15vw;
     padding-right: 15vw;
 }
+h2 {
+    font-size: 30px;
+    font-family: Lucida Bright;
+    color: white;
+    padding-top: 3px;
+}
+.one {
+    padding-left: 22vw;
+    padding-right: 3vw;
+}
