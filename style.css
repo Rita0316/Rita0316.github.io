@@ -23,7 +23,8 @@ p {
     font-size: 25px;
     padding-left: 20vw;
     padding-right: 20vw;
-    padding-top: 4vw;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
 }
 a {    
     font-family: Forte;
@@ -50,4 +51,9 @@ a:hover {
 .homejpg1 {
     padding-left: 60vw;
     padding-top: none;  
+}
+.subgroups {
+    font-family: Averia Serif Libre;
+    padding-bottom: none;
+    padding-top: none;
 }
