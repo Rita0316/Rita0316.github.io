@@ -4,7 +4,6 @@ body {
     background-position-x: center;
     background-position-y: center;
     margin: 0;
-
 }
 h1 {
     font-size: 50px;
@@ -45,15 +44,17 @@ a:hover {
     padding-right: 15vw;
     background-color: black;
 }
-.album {
-    padding-left: 15vw;
-}
 .homejpg1 {
     padding-left: 60vw;
     padding-top: none;  
 }
 .subgroups {
-    font-family: Averia Serif Libre;
-    padding-bottom: none;
-    padding-top: none;
+    font-family: Cambria;
+    padding-bottom: 0px;
+    padding-top: 0px
+}
+.album {
+    padding-top: 3vw;
+    padding-left: 15vw;
+    padding-right: 15vw;
 }

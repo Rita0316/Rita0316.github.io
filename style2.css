@@ -1,0 +1,18 @@
+body {
+    background-image: url('elf.jpg');
+    background-repeat: repeat-y;
+    background-position-x: center;
+    background-position-y: center;
+    margin: 0;
+}
+img {
+    padding-right: 15vw;
+    padding-top: 4vw;
+}
+h1 {
+    font-size: 30px;
+    font-family: Lucida Bright;
+    color: white;
+    padding-left: 15px;
+    padding-top: 3px;
+}
