@@ -1,6 +1,6 @@
 body {
     background-image: url('elf.jpg');
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-position-x: center;
     background-position-y: center;
     margin: 0;
@@ -21,8 +21,9 @@ p {
     color: white;
     font-variant-position: center;
     font-size: 25px;
-    padding-left: 15vw;
-    padding-right: 50vw;
+    padding-left: 20vw;
+    padding-right: 20vw;
+    padding-top: 4vw;
 }
 a {    
     font-family: Forte;
@@ -48,4 +49,5 @@ a:hover {
 }
 .homejpg1 {
     padding-left: 60vw;
+    padding-top: none;  
 }
