@@ -20,8 +20,9 @@ p {
     color: white;
     font-variant-position: center;
     font-size: 25px;
-    padding-left: 20vw;
-    padding-right: 20vw;
+    /* padding-left: 20vw;
+    padding-right: 20vw; */
+    padding-left: 20px;
     padding-top: 3vw;
     padding-bottom: 3vw;
 }
@@ -64,10 +65,6 @@ h2 {
     color: white;
     padding-top: 3px;
 }
-.one {
-    padding-left: 27vw;
-    padding-right: 3vw;
-}
 h3 {
     font-size: 30px;
     font-family: Lucida Bright;
@@ -87,4 +84,13 @@ h3 {
 .four {
     padding-left: 23vw;
     font-size: 22px;
+}
+.half {
+    display: flex;
+}
+.left{
+    width: 300px;
+}
+.right {
+
 }
