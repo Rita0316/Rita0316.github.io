@@ -23,8 +23,8 @@ p {
     /* padding-left: 20vw;
     padding-right: 20vw; */
     padding-left: 20px;
-    padding-top: 3vw;
-    padding-bottom: 3vw;
+    /* padding-top: 3vw;
+    padding-bottom: 3vw; */
 }
 a {    
     font-family: Cooper;
@@ -71,7 +71,10 @@ h3 {
     color: white;
     padding-top: 4px;
     padding-left: 15vw;
+    padding-bottom: 10px;
     border-bottom: white solid;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .three {
     font-family: Nunito;
@@ -91,6 +94,8 @@ h3 {
 .left{
     width: 300px;
 }
-.right {
-
+.left:hover {
+    border-style: solid;
+    border-color: white;
+    border-width: 0.5;
 }
