@@ -26,8 +26,8 @@ p {
     padding-bottom: 3vw;
 }
 a {    
-    font-family: Forte;
-    font-size: 25px;    
+    font-family: Cooper;
+    font-size: 27px;    
     text-decoration: none;
     font-weight: 1000;
     color: rgb(255, 255, 255);
@@ -40,8 +40,8 @@ a:hover {
     justify-content: space-around;
     padding-bottom: 17px;
     margin-bottom: 25px;
-    padding-left: 15vw;
-    padding-right: 15vw;
+    padding-left: 12vw;
+    padding-right: 12vw;
     background-color: black;
 }
 .homejpg1 {
@@ -56,7 +56,7 @@ a:hover {
 .album {
     padding-top: 3vw;
     padding-left: 15vw;
-    padding-right: 15vw;
+    padding-right: 10vw;
 }
 h2 {
     font-size: 30px;
@@ -67,4 +67,19 @@ h2 {
 .one {
     padding-left: 22vw;
     padding-right: 3vw;
+}
+h3 {
+    font-size: 30px;
+    font-family: Lucida Bright;
+    color: white;
+    padding-top: 4px;
+    padding-left: 15vw;
+}
+.three {
+    font-family: Nunito;
+    color: white;
+    font-variant-position: center;
+    font-size: 25px;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
 }
