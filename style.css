@@ -55,8 +55,8 @@ a:hover {
 }
 .album {
     padding-top: 3vw;
-    padding-left: 15vw;
-    padding-right: 10vw;
+    padding-left: 12vw;
+    padding-right: 8vw;
 }
 h2 {
     font-size: 30px;
@@ -65,7 +65,7 @@ h2 {
     padding-top: 3px;
 }
 .one {
-    padding-left: 22vw;
+    padding-left: 27vw;
     padding-right: 3vw;
 }
 h3 {
@@ -74,6 +74,7 @@ h3 {
     color: white;
     padding-top: 4px;
     padding-left: 15vw;
+    border-bottom: white solid;
 }
 .three {
     font-family: Nunito;
@@ -82,4 +83,8 @@ h3 {
     font-size: 25px;
     padding-top: 3vw;
     padding-bottom: 3vw;
+}
+.four {
+    padding-left: 23vw;
+    font-size: 22px;
 }
