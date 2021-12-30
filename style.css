@@ -1,0 +1,26 @@
+h1{
+    font-size: 100px;
+    color:rgb(238, 152, 103);
+}
+body{
+    /* background-image: url("123.jpg"); */
+    background-repeat: no-repeat;
+    background-size: 200vh;
+    background-position: center;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    width: 30vw;
+    background-color: lightgray;
+    margin-left: 30px;
+    padding-left: 30px;
+}
+section{
+    height: 400px;
+    background-color: lightgreen;
+}
+footer{
+    height: 600px;
+    background-color: rgb(216, 144, 238);
+}
